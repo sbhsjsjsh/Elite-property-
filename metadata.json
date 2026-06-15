@@ -1,0 +1,6 @@
+{
+  "name": "Elite Property",
+  "description": "A clean real estate home page with a mint green to white gradient background theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
