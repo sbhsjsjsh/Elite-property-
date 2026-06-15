@@ -18,6 +18,9 @@ export const metadata: Metadata = {
   icons: {
     icon: 'https://i.ibb.co/VXZsnQ8/file-0000000071007208af99742db5b43e95.png',
   },
+  verification: {
+    google: 'ZS7Ji6uzAvCK4ZWV-kfNVwciVcpp0w9o9JPaGPKRc4Q',
+  },
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
